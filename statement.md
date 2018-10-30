@@ -1,4 +1,4 @@
-# Welcome!
+# this is an example static polymorphism
 
 This C++ template lets you get started quickly with a simple one-page playground.
 
