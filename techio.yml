@@ -1,4 +1,4 @@
-title: Simple C++ Template
+title: CRTP demo
 plan:
-- title: C++ Snippet
+- title: C++ Code
   statement: statement.md
